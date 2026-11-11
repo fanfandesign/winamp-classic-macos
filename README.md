@@ -2,6 +2,14 @@
 
 Нативный аудиоплеер для Mac с интерфейсом по образцу классического Winamp 2.x: три панели, сегментный дисплей, спектроанализатор и десятиполосный эквалайзер.
 
+## Как выглядит и работает
+
+[![Winamp Classic: запуск, эквалайзер и регулировка громкости](docs/images/demo.gif)](https://github.com/fanfandesign/winamp-classic-macos/releases/download/v1.1/Winamp-Classic-Demo-AE.mp4)
+
+**[Смотреть ролик со звуком — 12 секунд, Full HD](https://github.com/fanfandesign/winamp-classic-macos/releases/download/v1.1/Winamp-Classic-Demo-AE.mp4)**
+
+Запуск с иконки, воспроизведение, настройка эквалайзера и громкости. Нажмите на анимированное превью, чтобы открыть видео с музыкой и щелчками.
+
 ## Скачать и установить
 
 **[Скачать Winamp Classic 1.1 для macOS](https://github.com/fanfandesign/winamp-classic-macos/releases/download/v1.1/Winamp-Classic-1.1-Universal.dmg)** · [Все релизы](https://github.com/fanfandesign/winamp-classic-macos/releases)

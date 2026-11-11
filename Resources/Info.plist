@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleName</key><string>Winamp Classic</string>
+<key>CFBundleDisplayName</key><string>Winamp Classic</string>
+<key>CFBundleIdentifier</key><string>local.winampclassic.player</string>
+<key>CFBundleIconFile</key><string>WinampOriginal</string>
+<key>CFBundleVersion</key><string>2</string>
+<key>CFBundleShortVersionString</key><string>1.1</string>
+<key>CFBundleExecutable</key><string>WinampClassic</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>LSMinimumSystemVersion</key><string>13.0</string>
+<key>NSHighResolutionCapable</key><true/>
+<key>CFBundleDocumentTypes</key><array><dict><key>CFBundleTypeName</key><string>Audio file</string><key>CFBundleTypeRole</key><string>Viewer</string><key>LSItemContentTypes</key><array><string>public.audio</string></array></dict></array>
+</dict></plist>

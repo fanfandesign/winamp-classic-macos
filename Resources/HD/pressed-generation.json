@@ -1,0 +1,11 @@
+{
+  "prompt": "Edit this compact Winamp HD button sprite sheet. Keep the EXACT same 6-column, 4-row grid, canvas dimensions, control rectangles, positions, symbols and labels. Change ONLY the 24 individual buttons/handles from raised to visibly PRESSED, in the original Winamp 2.x style: recessed darker silver faces, deep inner top and left shadows, reversed bevels with bright lower/right edges, sunken symbols shifted slightly down/right. Clearly dimensional mechanical pressed buttons, same HD quality. Flat navy background stays identical. Keep each button inside its existing rectangle. No rearrangement, no new labels, no panel or interface around them. Return the same aligned sheet, every button depressed.",
+  "file": "buttons-pressed.png",
+  "reference": "buttons-reference.png",
+  "layout": "buttons-layout.json",
+  "status": "Generated successfully with built-in image_gen; mapped to all 24 controls.",
+  "pixelSize": {
+    "width": 1836,
+    "height": 857
+  }
+}

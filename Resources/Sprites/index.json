@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 0,
+    "selector": "#webamp #balance ",
+    "width": 38,
+    "height": 420
+  },
+  {
+    "id": 1,
+    "selector": "#webamp #balance::-webkit-slider-thumb ",
+    "width": 14,
+    "height": 11
+  },
+  {
+    "id": 2,
+    "selector": "#webamp #balance::-moz-range-thumb ",
+    "width": 14,
+    "height": 11
+  },
+  {
+    "id": 3,
+    "selector": "#webamp #balance:active::-webkit-slider-thumb ",
+    "width": 14,
+    "height": 11
+  },
+  {
+    "id": 4,
+    "selector": "#webamp #balance:active::-moz-range-thumb ",
+    "width": 14,
+    "height": 11
+  },
+  {
+    "id": 5,
+    "selector": "#webamp .actions #previous ",
+    "width": 23,
+    "height": 18
+  },
+  {
+    "id": 6,
+    "selector": "#webamp .actions #previous.winamp-active ",
+    "width": 23,
+    "height": 18
+  },
+  {
+    "id": 7,
+    "selector": "#webamp .actions #play ",
+    "width": 23,
+    "height": 18
+  },
+  {
+    "id": 8,
+    "selector": "#webamp .actions #play.winamp-active ",
+    "width": 23,
+    "height": 18
+  },
+  {
+    "id": 9,
+    "selector": "#webamp .actions #pause ",
+    "width": 23,
+    "height": 18
+  },
+  {
+    "id": 10,
+    "selector": "#webamp .actions #pause.winamp-active ",
+    "width": 23,
+    "height": 18
+  },
+  {
+    "id": 11,
+    "selector": "#webamp .actions #stop ",
+    "width": 23,
+    "height": 18
+  },
+  {
+    "id": 12,
+    "selector": "#webamp .actions #stop.winamp-active ",
+    "width": 23,
+    "height": 18
+  },
+  {
+    "id": 13,
+    "selector": "#webamp .actions #next ",
+    "width": 23,
+    "height": 18
+  },
+  {
+    "id": 14,
+    "selector": "#webamp .actions #next.winamp-active ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 15,
+    "selector": "#webamp #eject ",
+    "width": 22,
+    "height": 16
+  },
+  {
+    "id": 16,
+    "selector": "#webamp #eject.winamp-active ",
+    "width": 22,
+    "height": 16
+  },
+  {
+    "id": 17,
+    "selector": "#webamp #main-window ",
+    "width": 275,
+    "height": 116
+  },
+  {
+    "id": 18,
+    "selector": "#webamp .media-info #stereo ",
+    "width": 29,
+    "height": 12
+  },
+  {
+    "id": 19,
+    "selector": "#webamp .stop .media-info #stereo.selected ",
+    "width": 29,
+    "height": 12
+  },
+  {
+    "id": 20,
+    "selector": "#webamp .media-info #stereo.selected ",
+    "width": 29,
+    "height": 12
+  },
+  {
+    "id": 21,
+    "selector": "#webamp .media-info #mono ",
+    "width": 27,
+    "height": 12
+  },
+  {
+    "id": 22,
+    "selector": "#webamp .stop .media-info #mono.selected ",
+    "width": 27,
+    "height": 12
+  },
+  {
+    "id": 23,
+    "selector": "#webamp .media-info #mono.selected ",
+    "width": 27,
+    "height": 12
+  },
+  {
+    "id": 24,
+    "selector": "#webamp #time #minus-sign ",
+    "width": 5,
+    "height": 1
+  },
+  {
+    "id": 25,
+    "selector": "#webamp #time.countdown #minus-sign ",
+    "width": 5,
+    "height": 1
+  },
+  {
+    "id": 26,
+    "selector": "#webamp .digit-0 ",
+    "width": 9,
+    "height": 13
+  },
+  {
+    "id": 27,
+    "selector": "#webamp .digit-1 ",
+    "width": 9,
+    "height": 13
+  },
+  {
+    "id": 28,
+    "selector": "#webamp .digit-2 ",
+    "width": 9,
+    "height": 13
+  },
+  {
+    "id": 29,
+    "selector": "#webamp .digit-3 ",
+    "width": 9,
+    "height": 13
+  },
+  {
+    "id": 30,
+    "selector": "#webamp .digit-4 ",
+    "width": 9,
+    "height": 13
+  },
+  {
+    "id": 31,
+    "selector": "#webamp .digit-5 ",
+    "width": 9,
+    "height": 13
+  },
+  {
+    "id": 32,
+    "selector": "#webamp .digit-6 ",
+    "width": 9,
+    "height": 13
+  },
+  {
+    "id": 33,
+    "selector": "#webamp .digit-7 ",
+    "width": 9,
+    "height": 13
+  },
+  {
+    "id": 34,
+    "selector": "#webamp .digit-8 ",
+    "width": 9,
+    "height": 13
+  },
+  {
+    "id": 35,
+    "selector": "#webamp .digit-9 ",
+    "width": 9,
+    "height": 13
+  },
+  {
+    "id": 36,
+    "selector": "#webamp .play #play-pause ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 37,
+    "selector": "#webamp .pause #play-pause ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 38,
+    "selector": "#webamp .stop #play-pause ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 39,
+    "selector": "#webamp #work-indicator ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 40,
+    "selector": "#webamp #work-indicator.selected ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 41,
+    "selector": "#webamp .playlist-top-left-fill ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 42,
+    "selector": "#webamp .playlist-top-left-spacer ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 43,
+    "selector": "#webamp .playlist-top-right-fill ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 44,
+    "selector": "#webamp .playlist-top-right-spacer ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 45,
+    "selector": "#webamp .playlist-top-left ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 46,
+    "selector": "#webamp .playlist-top-title ",
+    "width": 100,
+    "height": 20
+  },
+  {
+    "id": 47,
+    "selector": "#webamp .playlist-top-right ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 48,
+    "selector": "#webamp .selected .playlist-top-left-fill ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 49,
+    "selector": "#webamp .selected .playlist-top-left-spacer ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 50,
+    "selector": "#webamp .selected .playlist-top-right-fill ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 51,
+    "selector": "#webamp .selected .playlist-top-right-spacer ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 52,
+    "selector": "#webamp .selected .playlist-top-left ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 53,
+    "selector": "#webamp .selected .playlist-top-title ",
+    "width": 100,
+    "height": 20
+  },
+  {
+    "id": 54,
+    "selector": "#webamp .selected .playlist-top-right ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 55,
+    "selector": "#webamp .playlist-middle-left ",
+    "width": 12,
+    "height": 29
+  },
+  {
+    "id": 56,
+    "selector": "#webamp .playlist-middle-right ",
+    "width": 20,
+    "height": 29
+  },
+  {
+    "id": 57,
+    "selector": "#webamp .playlist-scrollbar-handle ",
+    "width": 8,
+    "height": 18
+  },
+  {
+    "id": 58,
+    "selector": "#webamp .playlist-middle-right.winamp-active .playlist-scrollbar-handle ",
+    "width": 8,
+    "height": 18
+  },
+  {
+    "id": 59,
+    "selector": "#webamp .playlist-bottom ",
+    "width": 25,
+    "height": 38
+  },
+  {
+    "id": 60,
+    "selector": "#webamp .playlist-bottom-left ",
+    "width": 125,
+    "height": 38
+  },
+  {
+    "id": 61,
+    "selector": "#webamp .playlist-bottom-right ",
+    "width": 150,
+    "height": 38
+  },
+  {
+    "id": 62,
+    "selector": "#webamp .playlist-visualizer ",
+    "width": 75,
+    "height": 38
+  },
+  {
+    "id": 63,
+    "selector": "#webamp #playlist-window-shade ",
+    "width": 25,
+    "height": 14
+  },
+  {
+    "id": 64,
+    "selector": "#webamp #playlist-window-shade .left ",
+    "width": 25,
+    "height": 14
+  },
+  {
+    "id": 65,
+    "selector": "#webamp #playlist-window-shade .right ",
+    "width": 50,
+    "height": 14
+  },
+  {
+    "id": 66,
+    "selector": "#webamp #playlist-window-shade.selected .right ",
+    "width": 50,
+    "height": 14
+  },
+  {
+    "id": 67,
+    "selector": "#webamp #playlist-add-menu.selected .bar ",
+    "width": 3,
+    "height": 54
+  },
+  {
+    "id": 68,
+    "selector": "#webamp #playlist-add-menu .add-url ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 69,
+    "selector": "#webamp #playlist-add-menu .hover .add-url ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 70,
+    "selector": "#webamp #playlist-add-menu .add-dir ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 71,
+    "selector": "#webamp #playlist-add-menu .hover .add-dir ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 72,
+    "selector": "#webamp #playlist-add-menu .add-file ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 73,
+    "selector": "#webamp #playlist-add-menu .hover .add-file ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 74,
+    "selector": "#webamp #playlist-remove-menu.selected .bar ",
+    "width": 3,
+    "height": 72
+  },
+  {
+    "id": 75,
+    "selector": "#webamp #playlist-remove-menu .remove-all ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 76,
+    "selector": "#webamp #playlist-remove-menu .hover .remove-all ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 77,
+    "selector": "#webamp #playlist-remove-menu .crop ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 78,
+    "selector": "#webamp #playlist-remove-menu .hover .crop ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 79,
+    "selector": "#webamp #playlist-remove-menu .remove-selected ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 80,
+    "selector": "#webamp #playlist-remove-menu .hover .remove-selected ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 81,
+    "selector": "#webamp #playlist-remove-menu .remove-misc ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 82,
+    "selector": "#webamp #playlist-remove-menu .hover .remove-misc ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 83,
+    "selector": "#webamp #playlist-selection-menu.selected .bar ",
+    "width": 3,
+    "height": 54
+  },
+  {
+    "id": 84,
+    "selector": "#webamp #playlist-selection-menu .invert-selection ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 85,
+    "selector": "#webamp #playlist-selection-menu .hover .invert-selection ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 86,
+    "selector": "#webamp #playlist-selection-menu .select-zero ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 87,
+    "selector": "#webamp #playlist-selection-menu .hover .select-zero ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 88,
+    "selector": "#webamp #playlist-selection-menu .select-all ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 89,
+    "selector": "#webamp #playlist-selection-menu .hover .select-all ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 90,
+    "selector": "#webamp #playlist-close-button.winamp-active ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 91,
+    "selector": "#webamp #playlist-window #playlist-shade-button.winamp-active ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 92,
+    "selector": "#webamp #playlist-window-shade #playlist-shade-button.winamp-active ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 93,
+    "selector": "#webamp #playlist-misc-menu.selected .bar ",
+    "width": 3,
+    "height": 54
+  },
+  {
+    "id": 94,
+    "selector": "#webamp #playlist-misc-menu .misc-options ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 95,
+    "selector": "#webamp #playlist-misc-menu .hover .misc-options ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 96,
+    "selector": "#webamp #playlist-misc-menu .file-info ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 97,
+    "selector": "#webamp #playlist-misc-menu .hover .file-info ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 98,
+    "selector": "#webamp #playlist-misc-menu .sort-list ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 99,
+    "selector": "#webamp #playlist-misc-menu .hover .sort-list ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 100,
+    "selector": "#webamp #playlist-list-menu.selected .bar ",
+    "width": 3,
+    "height": 54
+  },
+  {
+    "id": 101,
+    "selector": "#webamp #playlist-list-menu .new-list ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 102,
+    "selector": "#webamp #playlist-list-menu .hover .new-list ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 103,
+    "selector": "#webamp #playlist-list-menu .load-list ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 104,
+    "selector": "#webamp #playlist-list-menu .hover .load-list ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 105,
+    "selector": "#webamp #playlist-list-menu .save-list ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 106,
+    "selector": "#webamp #playlist-list-menu .hover .save-list ",
+    "width": 22,
+    "height": 18
+  },
+  {
+    "id": 107,
+    "selector": "#webamp #equalizer-window:not(.shade) ",
+    "width": 275,
+    "height": 116
+  },
+  {
+    "id": 108,
+    "selector": "#webamp .equalizer-top ",
+    "width": 275,
+    "height": 14
+  },
+  {
+    "id": 109,
+    "selector": "#webamp .selected .equalizer-top ",
+    "width": 275,
+    "height": 14
+  },
+  {
+    "id": 110,
+    "selector": "#webamp .band ",
+    "width": 209,
+    "height": 129
+  },
+  {
+    "id": 111,
+    "selector": "#webamp .band .slider-handle ",
+    "width": 11,
+    "height": 11
+  },
+  {
+    "id": 112,
+    "selector": "#webamp .band.winamp-active .slider-handle ",
+    "width": 11,
+    "height": 11
+  },
+  {
+    "id": 113,
+    "selector": "#webamp #on ",
+    "width": 26,
+    "height": 12
+  },
+  {
+    "id": 114,
+    "selector": "#webamp #on.winamp-active ",
+    "width": 26,
+    "height": 12
+  },
+  {
+    "id": 115,
+    "selector": "#webamp #on.selected ",
+    "width": 26,
+    "height": 12
+  },
+  {
+    "id": 116,
+    "selector": "#webamp #on.selected.winamp-active ",
+    "width": 26,
+    "height": 12
+  },
+  {
+    "id": 117,
+    "selector": "#webamp #auto ",
+    "width": 32,
+    "height": 12
+  },
+  {
+    "id": 118,
+    "selector": "#webamp #auto.winamp-active ",
+    "width": 32,
+    "height": 12
+  },
+  {
+    "id": 119,
+    "selector": "#webamp #auto.selected ",
+    "width": 32,
+    "height": 12
+  },
+  {
+    "id": 120,
+    "selector": "#webamp #auto.selected.winamp-active ",
+    "width": 32,
+    "height": 12
+  },
+  {
+    "id": 121,
+    "selector": "#webamp #eqGraph ",
+    "width": 113,
+    "height": 19
+  },
+  {
+    "id": 122,
+    "selector": "#webamp #presets ",
+    "width": 44,
+    "height": 12
+  },
+  {
+    "id": 123,
+    "selector": "#webamp #presets.winamp-active ",
+    "width": 44,
+    "height": 12
+  },
+  {
+    "id": 124,
+    "selector": "#webamp #preamp-line ",
+    "width": 113,
+    "height": 1
+  },
+  {
+    "id": 125,
+    "selector": "#webamp #equalizer-window.shade ",
+    "width": 275,
+    "height": 14
+  },
+  {
+    "id": 126,
+    "selector": "#webamp #equalizer-window.shade.selected ",
+    "width": 275,
+    "height": 14
+  },
+  {
+    "id": 127,
+    "selector": "#webamp #equalizer-volume.left::-webkit-slider-thumb ",
+    "width": 3,
+    "height": 7
+  },
+  {
+    "id": 128,
+    "selector": "#webamp #equalizer-volume.left::-moz-range-thumb ",
+    "width": 3,
+    "height": 7
+  },
+  {
+    "id": 129,
+    "selector": "#webamp #equalizer-volume.center::-webkit-slider-thumb ",
+    "width": 3,
+    "height": 7
+  },
+  {
+    "id": 130,
+    "selector": "#webamp #equalizer-volume.center::-moz-range-thumb ",
+    "width": 3,
+    "height": 7
+  },
+  {
+    "id": 131,
+    "selector": "#webamp #equalizer-volume.right::-webkit-slider-thumb ",
+    "width": 3,
+    "height": 7
+  },
+  {
+    "id": 132,
+    "selector": "#webamp #equalizer-volume.right::-moz-range-thumb ",
+    "width": 3,
+    "height": 7
+  },
+  {
+    "id": 133,
+    "selector": "#webamp #equalizer-balance.left::-webkit-slider-thumb ",
+    "width": 3,
+    "height": 7
+  },
+  {
+    "id": 134,
+    "selector": "#webamp #equalizer-balance.left::-moz-range-thumb ",
+    "width": 3,
+    "height": 7
+  },
+  {
+    "id": 135,
+    "selector": "#webamp #equalizer-balance.center::-webkit-slider-thumb ",
+    "width": 3,
+    "height": 7
+  },
+  {
+    "id": 136,
+    "selector": "#webamp #equalizer-balance.center::-moz-range-thumb ",
+    "width": 3,
+    "height": 7
+  },
+  {
+    "id": 137,
+    "selector": "#webamp #equalizer-balance.right::-webkit-slider-thumb ",
+    "width": 3,
+    "height": 7
+  },
+  {
+    "id": 138,
+    "selector": "#webamp #equalizer-balance.right::-moz-range-thumb ",
+    "width": 3,
+    "height": 7
+  },
+  {
+    "id": 139,
+    "selector": "#webamp #equalizer-shade.winamp-active ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 140,
+    "selector": "#webamp #equalizer-window.shade #equalizer-shade.winamp-active ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 141,
+    "selector": "#webamp #equalizer-window.selected #eq-buttons.clicked #equalizer-close ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 142,
+    "selector": "#webamp #equalizer-window.selected #eq-buttons.clicked #equalizer-close.winamp-active ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 143,
+    "selector": "#webamp #equalizer-window.shade.selected #eq-buttons.clicked #equalizer-close ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 144,
+    "selector": "#webamp #equalizer-window.shade.selected #eq-buttons.clicked #equalizer-close.winamp-active ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 145,
+    "selector": "#webamp #position ",
+    "width": 248,
+    "height": 10
+  },
+  {
+    "id": 146,
+    "selector": "#webamp #position::-webkit-slider-thumb ",
+    "width": 29,
+    "height": 10
+  },
+  {
+    "id": 147,
+    "selector": "#webamp #position::-moz-range-thumb ",
+    "width": 29,
+    "height": 10
+  },
+  {
+    "id": 148,
+    "selector": "#webamp #position:active::-webkit-slider-thumb ",
+    "width": 29,
+    "height": 10
+  },
+  {
+    "id": 149,
+    "selector": "#webamp #position:active::-moz-range-thumb ",
+    "width": 29,
+    "height": 10
+  },
+  {
+    "id": 150,
+    "selector": "#webamp #shuffle ",
+    "width": 47,
+    "height": 15
+  },
+  {
+    "id": 151,
+    "selector": "#webamp #shuffle.winamp-active ",
+    "width": 47,
+    "height": 15
+  },
+  {
+    "id": 152,
+    "selector": "#webamp #shuffle.selected ",
+    "width": 47,
+    "height": 15
+  },
+  {
+    "id": 153,
+    "selector": "#webamp #shuffle.selected.winamp-active ",
+    "width": 47,
+    "height": 15
+  },
+  {
+    "id": 154,
+    "selector": "#webamp #repeat ",
+    "width": 28,
+    "height": 15
+  },
+  {
+    "id": 155,
+    "selector": "#webamp #repeat.winamp-active ",
+    "width": 28,
+    "height": 15
+  },
+  {
+    "id": 156,
+    "selector": "#webamp #repeat.selected ",
+    "width": 28,
+    "height": 15
+  },
+  {
+    "id": 157,
+    "selector": "#webamp #repeat.selected.winamp-active ",
+    "width": 28,
+    "height": 15
+  },
+  {
+    "id": 158,
+    "selector": "#webamp #equalizer-button ",
+    "width": 23,
+    "height": 12
+  },
+  {
+    "id": 159,
+    "selector": "#webamp #equalizer-button.selected ",
+    "width": 23,
+    "height": 12
+  },
+  {
+    "id": 160,
+    "selector": "#webamp #equalizer-button.winamp-active ",
+    "width": 23,
+    "height": 12
+  },
+  {
+    "id": 161,
+    "selector": "#webamp #equalizer-button.selected.winamp-button ",
+    "width": 23,
+    "height": 12
+  },
+  {
+    "id": 162,
+    "selector": "#webamp #playlist-button ",
+    "width": 23,
+    "height": 12
+  },
+  {
+    "id": 163,
+    "selector": "#webamp #playlist-button.selected ",
+    "width": 23,
+    "height": 12
+  },
+  {
+    "id": 164,
+    "selector": "#webamp #playlist-button.winamp-active ",
+    "width": 23,
+    "height": 12
+  },
+  {
+    "id": 165,
+    "selector": "#webamp #playlist-button.selected.winamp-active ",
+    "width": 23,
+    "height": 12
+  },
+  {
+    "id": 166,
+    "selector": "#webamp #title-bar ",
+    "width": 275,
+    "height": 14
+  },
+  {
+    "id": 167,
+    "selector": "#webamp .selected #title-bar ",
+    "width": 275,
+    "height": 14
+  },
+  {
+    "id": 168,
+    "selector": "#webamp .llama #title-bar ",
+    "width": 275,
+    "height": 14
+  },
+  {
+    "id": 169,
+    "selector": "#webamp .llama.selected #title-bar ",
+    "width": 275,
+    "height": 14
+  },
+  {
+    "id": 170,
+    "selector": "#webamp .selected #title-bar #option.clicked ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 171,
+    "selector": "#webamp .selected #title-bar #option:active ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 172,
+    "selector": "#webamp .selected #title-bar #option.selected ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 173,
+    "selector": "#webamp .selected #title-bar #minimize.clicked ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 174,
+    "selector": "#webamp .selected #title-bar #minimize.winamp-active ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 175,
+    "selector": "#webamp .selected #title-bar #shade.clicked ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 176,
+    "selector": "#webamp .selected #title-bar #shade.winamp-active ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 177,
+    "selector": "#webamp .selected #title-bar #close.clicked ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 178,
+    "selector": "#webamp .selected #title-bar #close.winamp-active ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 179,
+    "selector": "#webamp #clutter-bar ",
+    "width": 8,
+    "height": 43
+  },
+  {
+    "id": 180,
+    "selector": "#webamp #clutter-bar.disabled ",
+    "width": 8,
+    "height": 43
+  },
+  {
+    "id": 181,
+    "selector": "#webamp #button-o:active ",
+    "width": 8,
+    "height": 8
+  },
+  {
+    "id": 182,
+    "selector": "#webamp #button-0.selected ",
+    "width": 8,
+    "height": 8
+  },
+  {
+    "id": 183,
+    "selector": "#webamp #button-a:active ",
+    "width": 8,
+    "height": 7
+  },
+  {
+    "id": 184,
+    "selector": "#webamp #button-a.selected ",
+    "width": 8,
+    "height": 7
+  },
+  {
+    "id": 185,
+    "selector": "#webamp #button-i:active ",
+    "width": 8,
+    "height": 7
+  },
+  {
+    "id": 186,
+    "selector": "#webamp #button-i.selected ",
+    "width": 8,
+    "height": 7
+  },
+  {
+    "id": 187,
+    "selector": "#webamp #button-d:active ",
+    "width": 8,
+    "height": 8
+  },
+  {
+    "id": 188,
+    "selector": "#webamp #button-d.selected ",
+    "width": 8,
+    "height": 8
+  },
+  {
+    "id": 189,
+    "selector": "#webamp #button-v:active ",
+    "width": 8,
+    "height": 7
+  },
+  {
+    "id": 190,
+    "selector": "#webamp #button-v.selected ",
+    "width": 8,
+    "height": 7
+  },
+  {
+    "id": 191,
+    "selector": "#webamp .shade #title-bar ",
+    "width": 275,
+    "height": 14
+  },
+  {
+    "id": 192,
+    "selector": "#webamp .shade.selected #title-bar ",
+    "width": 275,
+    "height": 14
+  },
+  {
+    "id": 193,
+    "selector": "#webamp .shade.selected #title-bar #shade ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 194,
+    "selector": "#webamp .shade #title-bar #shade.winamp-active ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 195,
+    "selector": "#webamp .shade #position ",
+    "width": 17,
+    "height": 7
+  },
+  {
+    "id": 196,
+    "selector": "#webamp .shade #position::-moz-range-thumb ",
+    "width": 3,
+    "height": 7
+  },
+  {
+    "id": 197,
+    "selector": "#webamp .shade #position::-webkit-slider-thumb ",
+    "width": 3,
+    "height": 7
+  },
+  {
+    "id": 198,
+    "selector": "#webamp .shade #position.left::-moz-range-thumb ",
+    "width": 3,
+    "height": 7
+  },
+  {
+    "id": 199,
+    "selector": "#webamp .shade #position.left::-webkit-slider-thumb ",
+    "width": 3,
+    "height": 7
+  },
+  {
+    "id": 200,
+    "selector": "#webamp .shade #position.right::-moz-range-thumb ",
+    "width": 3,
+    "height": 7
+  },
+  {
+    "id": 201,
+    "selector": "#webamp .shade #position.right::-webkit-slider-thumb ",
+    "width": 3,
+    "height": 7
+  },
+  {
+    "id": 202,
+    "selector": "#webamp #volume ",
+    "width": 68,
+    "height": 420
+  },
+  {
+    "id": 203,
+    "selector": "#webamp #volume input::-webkit-slider-thumb ",
+    "width": 14,
+    "height": 11
+  },
+  {
+    "id": 204,
+    "selector": "#webamp #volume input::-moz-range-thumb ",
+    "width": 14,
+    "height": 11
+  },
+  {
+    "id": 205,
+    "selector": "#webamp #volume input:active::-webkit-slider-thumb ",
+    "width": 14,
+    "height": 11
+  },
+  {
+    "id": 206,
+    "selector": "#webamp #volume input:active::-moz-range-thumb ",
+    "width": 14,
+    "height": 11
+  },
+  {
+    "id": 207,
+    "selector": "#webamp .gen-window .gen-top ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 208,
+    "selector": "#webamp .gen-window .gen-top-left ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 209,
+    "selector": "#webamp .gen-window .gen-top-left-end ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 210,
+    "selector": "#webamp .gen-window .gen-top-right ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 211,
+    "selector": "#webamp .gen-window .gen-top-right-end ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 212,
+    "selector": "#webamp .gen-window .gen-top-left-fill ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 213,
+    "selector": "#webamp .gen-window .gen-top-right-fill ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 214,
+    "selector": "#webamp .gen-window.selected .gen-top ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 215,
+    "selector": "#webamp .gen-window.selected .gen-top-left ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 216,
+    "selector": "#webamp .gen-window.selected .gen-top-left-end ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 217,
+    "selector": "#webamp .gen-window.selected .gen-top-right ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 218,
+    "selector": "#webamp .gen-window.selected .gen-top-right-end ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 219,
+    "selector": "#webamp .gen-window.selected .gen-top-left-fill ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 220,
+    "selector": "#webamp .gen-window.selected .gen-top-right-fill ",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "id": 221,
+    "selector": "#webamp .gen-window .gen-bottom-left ",
+    "width": 125,
+    "height": 14
+  },
+  {
+    "id": 222,
+    "selector": "#webamp .gen-window .gen-bottom-right ",
+    "width": 125,
+    "height": 14
+  },
+  {
+    "id": 223,
+    "selector": "#webamp .gen-window .gen-bottom ",
+    "width": 25,
+    "height": 14
+  },
+  {
+    "id": 224,
+    "selector": "#webamp .gen-window .gen-middle-left ",
+    "width": 11,
+    "height": 29
+  },
+  {
+    "id": 225,
+    "selector": "#webamp .gen-window .gen-middle-left-bottom ",
+    "width": 11,
+    "height": 24
+  },
+  {
+    "id": 226,
+    "selector": "#webamp .gen-window .gen-middle-right ",
+    "width": 8,
+    "height": 29
+  },
+  {
+    "id": 227,
+    "selector": "#webamp .gen-window .gen-middle-right-bottom ",
+    "width": 8,
+    "height": 24
+  },
+  {
+    "id": 228,
+    "selector": "#webamp .gen-window .gen-close.winamp-active ",
+    "width": 9,
+    "height": 9
+  },
+  {
+    "id": 229,
+    "selector": "#webamp .character-48 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 230,
+    "selector": "#webamp .character-49 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 231,
+    "selector": "#webamp .character-50 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 232,
+    "selector": "#webamp .character-51 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 233,
+    "selector": "#webamp .character-52 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 234,
+    "selector": "#webamp .character-53 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 235,
+    "selector": "#webamp .character-54 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 236,
+    "selector": "#webamp .character-55 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 237,
+    "selector": "#webamp .character-56 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 238,
+    "selector": "#webamp .character-57 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 239,
+    "selector": "#webamp .character-97 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 240,
+    "selector": "#webamp .character-98 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 241,
+    "selector": "#webamp .character-99 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 242,
+    "selector": "#webamp .character-100 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 243,
+    "selector": "#webamp .character-101 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 244,
+    "selector": "#webamp .character-102 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 245,
+    "selector": "#webamp .character-103 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 246,
+    "selector": "#webamp .character-104 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 247,
+    "selector": "#webamp .character-105 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 248,
+    "selector": "#webamp .character-106 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 249,
+    "selector": "#webamp .character-107 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 250,
+    "selector": "#webamp .character-108 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 251,
+    "selector": "#webamp .character-109 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 252,
+    "selector": "#webamp .character-110 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 253,
+    "selector": "#webamp .character-111 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 254,
+    "selector": "#webamp .character-112 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 255,
+    "selector": "#webamp .character-113 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 256,
+    "selector": "#webamp .character-114 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 257,
+    "selector": "#webamp .character-115 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 258,
+    "selector": "#webamp .character-116 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 259,
+    "selector": "#webamp .character-117 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 260,
+    "selector": "#webamp .character-118 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 261,
+    "selector": "#webamp .character-119 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 262,
+    "selector": "#webamp .character-120 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 263,
+    "selector": "#webamp .character-121 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 264,
+    "selector": "#webamp .character-122 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 265,
+    "selector": "#webamp .character-34 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 266,
+    "selector": "#webamp .character-64 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 267,
+    "selector": "#webamp .character-32 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 268,
+    "selector": "#webamp .character-8230 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 269,
+    "selector": "#webamp .character-46 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 270,
+    "selector": "#webamp .character-58 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 271,
+    "selector": "#webamp .character-40 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 272,
+    "selector": "#webamp .character-41 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 273,
+    "selector": "#webamp .character-45 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 274,
+    "selector": "#webamp .character-39 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 275,
+    "selector": "#webamp .character-33 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 276,
+    "selector": "#webamp .character-95 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 277,
+    "selector": "#webamp .character-43 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 278,
+    "selector": "#webamp .character-92 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 279,
+    "selector": "#webamp .character-47 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 280,
+    "selector": "#webamp .character-91 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 281,
+    "selector": "#webamp .character-93 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 282,
+    "selector": "#webamp .character-94 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 283,
+    "selector": "#webamp .character-38 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 284,
+    "selector": "#webamp .character-37 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 285,
+    "selector": "#webamp .character-44 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 286,
+    "selector": "#webamp .character-61 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 287,
+    "selector": "#webamp .character-36 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 288,
+    "selector": "#webamp .character-35 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 289,
+    "selector": "#webamp .character-197 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 290,
+    "selector": "#webamp .character-214 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 291,
+    "selector": "#webamp .character-196 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 292,
+    "selector": "#webamp .character-63 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 293,
+    "selector": "#webamp .character-42 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 294,
+    "selector": "#webamp .character-60 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 295,
+    "selector": "#webamp .character-62 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 296,
+    "selector": "#webamp .character-123 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 297,
+    "selector": "#webamp .character-125 ",
+    "width": 5,
+    "height": 6
+  },
+  {
+    "id": 298,
+    "selector": "#webamp .gen-text-a ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 299,
+    "selector": "#webamp .gen-window.selected .gen-text-a ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 300,
+    "selector": "#webamp .gen-text-b ",
+    "width": 7,
+    "height": 7
+  },
+  {
+    "id": 301,
+    "selector": "#webamp .gen-window.selected .gen-text-b ",
+    "width": 7,
+    "height": 7
+  },
+  {
+    "id": 302,
+    "selector": "#webamp .gen-text-c ",
+    "width": 7,
+    "height": 7
+  },
+  {
+    "id": 303,
+    "selector": "#webamp .gen-window.selected .gen-text-c ",
+    "width": 7,
+    "height": 7
+  },
+  {
+    "id": 304,
+    "selector": "#webamp .gen-text-d ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 305,
+    "selector": "#webamp .gen-window.selected .gen-text-d ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 306,
+    "selector": "#webamp .gen-text-e ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 307,
+    "selector": "#webamp .gen-window.selected .gen-text-e ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 308,
+    "selector": "#webamp .gen-text-f ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 309,
+    "selector": "#webamp .gen-window.selected .gen-text-f ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 310,
+    "selector": "#webamp .gen-text-g ",
+    "width": 7,
+    "height": 7
+  },
+  {
+    "id": 311,
+    "selector": "#webamp .gen-window.selected .gen-text-g ",
+    "width": 7,
+    "height": 7
+  },
+  {
+    "id": 312,
+    "selector": "#webamp .gen-text-h ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 313,
+    "selector": "#webamp .gen-window.selected .gen-text-h ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 314,
+    "selector": "#webamp .gen-text-i ",
+    "width": 4,
+    "height": 7
+  },
+  {
+    "id": 315,
+    "selector": "#webamp .gen-window.selected .gen-text-i ",
+    "width": 4,
+    "height": 7
+  },
+  {
+    "id": 316,
+    "selector": "#webamp .gen-text-j ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 317,
+    "selector": "#webamp .gen-window.selected .gen-text-j ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 318,
+    "selector": "#webamp .gen-text-k ",
+    "width": 7,
+    "height": 7
+  },
+  {
+    "id": 319,
+    "selector": "#webamp .gen-window.selected .gen-text-k ",
+    "width": 7,
+    "height": 7
+  },
+  {
+    "id": 320,
+    "selector": "#webamp .gen-text-l ",
+    "width": 5,
+    "height": 7
+  },
+  {
+    "id": 321,
+    "selector": "#webamp .gen-window.selected .gen-text-l ",
+    "width": 5,
+    "height": 7
+  },
+  {
+    "id": 322,
+    "selector": "#webamp .gen-text-m ",
+    "width": 8,
+    "height": 7
+  },
+  {
+    "id": 323,
+    "selector": "#webamp .gen-window.selected .gen-text-m ",
+    "width": 8,
+    "height": 7
+  },
+  {
+    "id": 324,
+    "selector": "#webamp .gen-text-n ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 325,
+    "selector": "#webamp .gen-window.selected .gen-text-n ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 326,
+    "selector": "#webamp .gen-text-o ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 327,
+    "selector": "#webamp .gen-window.selected .gen-text-o ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 328,
+    "selector": "#webamp .gen-text-p ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 329,
+    "selector": "#webamp .gen-window.selected .gen-text-p ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 330,
+    "selector": "#webamp .gen-text-q ",
+    "width": 7,
+    "height": 7
+  },
+  {
+    "id": 331,
+    "selector": "#webamp .gen-window.selected .gen-text-q ",
+    "width": 7,
+    "height": 7
+  },
+  {
+    "id": 332,
+    "selector": "#webamp .gen-text-r ",
+    "width": 7,
+    "height": 7
+  },
+  {
+    "id": 333,
+    "selector": "#webamp .gen-window.selected .gen-text-r ",
+    "width": 7,
+    "height": 7
+  },
+  {
+    "id": 334,
+    "selector": "#webamp .gen-text-s ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 335,
+    "selector": "#webamp .gen-window.selected .gen-text-s ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 336,
+    "selector": "#webamp .gen-text-t ",
+    "width": 5,
+    "height": 7
+  },
+  {
+    "id": 337,
+    "selector": "#webamp .gen-window.selected .gen-text-t ",
+    "width": 5,
+    "height": 7
+  },
+  {
+    "id": 338,
+    "selector": "#webamp .gen-text-u ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 339,
+    "selector": "#webamp .gen-window.selected .gen-text-u ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 340,
+    "selector": "#webamp .gen-text-v ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 341,
+    "selector": "#webamp .gen-window.selected .gen-text-v ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 342,
+    "selector": "#webamp .gen-text-w ",
+    "width": 8,
+    "height": 7
+  },
+  {
+    "id": 343,
+    "selector": "#webamp .gen-window.selected .gen-text-w ",
+    "width": 8,
+    "height": 7
+  },
+  {
+    "id": 344,
+    "selector": "#webamp .gen-text-x ",
+    "width": 7,
+    "height": 7
+  },
+  {
+    "id": 345,
+    "selector": "#webamp .gen-window.selected .gen-text-x ",
+    "width": 7,
+    "height": 7
+  },
+  {
+    "id": 346,
+    "selector": "#webamp .gen-text-y ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 347,
+    "selector": "#webamp .gen-window.selected .gen-text-y ",
+    "width": 6,
+    "height": 7
+  },
+  {
+    "id": 348,
+    "selector": "#webamp .gen-text-z ",
+    "width": 11,
+    "height": 7
+  },
+  {
+    "id": 349,
+    "selector": "#webamp .gen-window.selected .gen-text-z ",
+    "width": 11,
+    "height": 7
+  }
+]

@@ -1,0 +1,8 @@
+Classic Winamp logo / application icon
+Source: https://commons.wikimedia.org/wiki/File:Winamp-logo.svg
+Original artwork: Emrrans; vector version: Pduive23.
+License: Creative Commons Attribution-ShareAlike 3.0 Unported
+https://creativecommons.org/licenses/by-sa/3.0/
+The downloaded logo is unchanged; it has been scaled and padded on a transparent
+canvas for macOS ICNS sizes. This icon adaptation is provided under the same license.
+Winamp is a trademark of its respective owner. This is an independent local player.

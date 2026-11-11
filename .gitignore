@@ -1,0 +1,11 @@
+.DS_Store
+/build/
+/dist/
+Resources/WinampClassic.iconset/
+*.p12
+*.p8
+*.cer
+*.key
+*.mobileprovision
+.env
+.env.*

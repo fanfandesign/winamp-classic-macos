@@ -1,0 +1,174 @@
+{
+  "buttons" : [
+    {
+      "height" : 72,
+      "name" : "previous",
+      "width" : 92,
+      "x" : 54,
+      "y" : 34
+    },
+    {
+      "height" : 72,
+      "name" : "play",
+      "width" : 92,
+      "x" : 254,
+      "y" : 34
+    },
+    {
+      "height" : 72,
+      "name" : "pause",
+      "width" : 92,
+      "x" : 454,
+      "y" : 34
+    },
+    {
+      "height" : 72,
+      "name" : "stop",
+      "width" : 92,
+      "x" : 654,
+      "y" : 34
+    },
+    {
+      "height" : 72,
+      "name" : "next",
+      "width" : 92,
+      "x" : 854,
+      "y" : 34
+    },
+    {
+      "height" : 64,
+      "name" : "eject",
+      "width" : 88,
+      "x" : 1056,
+      "y" : 38
+    },
+    {
+      "height" : 48,
+      "name" : "eq",
+      "width" : 92,
+      "x" : 54,
+      "y" : 186
+    },
+    {
+      "height" : 48,
+      "name" : "pl",
+      "width" : 92,
+      "x" : 254,
+      "y" : 186
+    },
+    {
+      "height" : 60,
+      "name" : "shuffle",
+      "width" : 188,
+      "x" : 406,
+      "y" : 180
+    },
+    {
+      "height" : 60,
+      "name" : "repeat",
+      "width" : 112,
+      "x" : 644,
+      "y" : 180
+    },
+    {
+      "height" : 48,
+      "name" : "on",
+      "width" : 104,
+      "x" : 848,
+      "y" : 186
+    },
+    {
+      "height" : 48,
+      "name" : "auto",
+      "width" : 128,
+      "x" : 1036,
+      "y" : 186
+    },
+    {
+      "height" : 48,
+      "name" : "presets",
+      "width" : 176,
+      "x" : 12,
+      "y" : 326
+    },
+    {
+      "height" : 80,
+      "name" : "add",
+      "width" : 92,
+      "x" : 254,
+      "y" : 310
+    },
+    {
+      "height" : 80,
+      "name" : "remove",
+      "width" : 92,
+      "x" : 454,
+      "y" : 310
+    },
+    {
+      "height" : 80,
+      "name" : "select",
+      "width" : 92,
+      "x" : 654,
+      "y" : 310
+    },
+    {
+      "height" : 80,
+      "name" : "misc",
+      "width" : 96,
+      "x" : 852,
+      "y" : 310
+    },
+    {
+      "height" : 80,
+      "name" : "list",
+      "width" : 100,
+      "x" : 1050,
+      "y" : 310
+    },
+    {
+      "height" : 44,
+      "name" : "volume",
+      "width" : 56,
+      "x" : 72,
+      "y" : 468
+    },
+    {
+      "height" : 44,
+      "name" : "balance",
+      "width" : 56,
+      "x" : 272,
+      "y" : 468
+    },
+    {
+      "height" : 40,
+      "name" : "seek",
+      "width" : 116,
+      "x" : 442,
+      "y" : 470
+    },
+    {
+      "height" : 44,
+      "name" : "band",
+      "width" : 44,
+      "x" : 678,
+      "y" : 468
+    },
+    {
+      "height" : 36,
+      "name" : "minimize",
+      "width" : 36,
+      "x" : 882,
+      "y" : 472
+    },
+    {
+      "height" : 36,
+      "name" : "close",
+      "width" : 36,
+      "x" : 1082,
+      "y" : 472
+    }
+  ],
+  "height" : 560,
+  "width" : 1200
+}
